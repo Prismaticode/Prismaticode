@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prismaticode
-- 👀 I’m interested in Webdesign and development, 3d- modelling, Game design
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on games and app deveopment
+- 👀 I’m interested in Web development, 3d modelling & Game design
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on games and Software & App development
 - 📫 How to reach me ...
 
 <!---
